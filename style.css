@@ -609,11 +609,10 @@ body {
 .email {
     border: none;
     color: #6c6c6c;
-    margin-left: 19px;
     font-size: 14px;
     font-weight: 300;
     width: 350px;
-    margin-left: 13px;
+    text-indent: 19px;
 }
 
 .email-submit {
