@@ -153,17 +153,18 @@ body {
 .tab-controll {
     padding-top: 120px;
     padding-bottom: 50px;
+    position: relative;
 }
 
 .tab-controll-list {
     list-style-type: none;
      display: inline-block;
-    
 }
 
 .tab-controll-Featured {
     width: 317px;
     border-bottom: 1px solid #6c6c6c;
+    float: left;
 }
 
 .tab-controll-a {
